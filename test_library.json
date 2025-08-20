@@ -1,0 +1,12 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "12345"
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "isbn": "67890"
+    }
+]
